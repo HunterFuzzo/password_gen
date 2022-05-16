@@ -1,6 +1,6 @@
 # password_gen
 
-Simple password generator in Python
+Simple password generator written in Python
 
 ### How to use ?
 
